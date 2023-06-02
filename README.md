@@ -21,6 +21,8 @@ Tools and Technologies:
 •	Big data analytics platform – Spark
 •	Business Intelligence Dashboard - IBM Cognos Analytics
 •	Data Pipelines - Apache Airflow
+
+
 Process:
 SoftCart's online presence is primarily through its website, which customers access using a variety of devices like laptops, mobiles and tablets.
 All the catalog data of the products is stored in the MongoDB NoSQL server.
