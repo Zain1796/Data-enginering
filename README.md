@@ -36,7 +36,9 @@ Tools and Technologies:
 
 
 
+
 Process:
+
 
 SoftCart's online presence is primarily through its website, which customers access using a variety of devices like laptops, mobiles and tablets.
 
